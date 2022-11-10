@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pankaj_m_sharma" target="blank"><img src="https://img.shields.io/twitter/follow/pankaj_m_sharma?logo=twitter&style=for-the-badge" alt="pankaj_m_sharma" /></a> </p>
 
-- 👨‍💻 My profile page [pankajmsharma@github.com](pankajmsharma@github.io)
+- 👨‍💻 My profile webpage [pankajmsharma@github.io](pankajmsharma@github.io)
 - 📝 [My Resume](https://github.com/PankajMSharma/Personal-Static-Repo/raw/main/Resume_Pankaj_Sharma.pdf)
 - 📫 How to reach me **pankajmsharma357@hotmail.com**
 
